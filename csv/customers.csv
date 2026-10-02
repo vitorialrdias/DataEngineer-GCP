@@ -1,0 +1,301 @@
+customer_id,full_name,email,signup_date,country,marketing_channel
+1,Brenda Alves,samuel32@example.net,2024-12-13,EUA,paid_search
+2,Dra. Aurora Pastor,bandrade@example.org,2025-03-08,Chile,organic
+3,Amanda Novais,zoeleao@example.org,2025-08-23,Brasil,paid_search
+4,André Teixeira,laviniafernandes@example.com,2025-01-21,Chile,paid_search
+5,Sr. Caleb Garcia,fogacacatarina@example.net,2025-04-11,Argentina,paid_search
+6,Raul Nascimento,garciaemanuel@example.net,2025-05-02,Brasil,paid_search
+7,Maria Cecília Oliveira,davi-miguelaparecida@example.net,2025-03-15,Portugal,paid_search
+8,Bruno da Conceição,garciaagatha@example.com,2026-01-07,Brasil,email
+9,Sr. Léo Fogaça,vitorsampaio@example.net,2026-01-16,Chile,social
+10,Eloá Nascimento,luanmartins@example.com,2025-04-15,Chile,organic
+11,Hellena Rodrigues,daniel30@example.com,2025-07-19,Chile,social
+12,Heitor Nunes,otavio76@example.net,2025-08-30,EUA,referral
+13,Davi Miguel da Cruz,liz96@example.com,2025-03-09,Portugal,social
+14,Thomas Monteiro,sacalebe@example.org,2025-01-19,Brasil,email
+15,Otávio Peixoto,gomesgiovanna@example.net,2026-09-27,EUA,paid_search
+16,Isis Novaes,rodriguesian@example.net,2026-07-07,EUA,organic
+17,Luigi Camargo,luara27@example.org,2026-08-27,Portugal,paid_search
+18,Sra. Sarah Teixeira,nataliacaldeira@example.net,2025-05-05,Chile,paid_search
+19,Sofia Pereira,leandrofreitas@example.org,2025-10-28,Brasil,paid_search
+20,Agatha Peixoto,mariana01@example.com,2026-07-03,Argentina,social
+21,Isaque Araújo,emanuelbarros@example.net,2025-09-19,Chile,social
+22,Vitor Vargas,jose-miguelribeiro@example.com,2026-08-22,Argentina,paid_search
+23,João Moura,icunha@example.net,2026-02-15,Chile,referral
+24,Sra. Maria Liz Rios,luna87@example.org,2025-03-29,Chile,email
+25,Lucca Almeida,pedro-lucasabreu@example.org,2026-02-28,Portugal,referral
+26,Ian Azevedo,fariasdiego@example.net,2025-03-22,Brasil,paid_search
+27,Raquel Cunha,maria-juliada-cruz@example.com,2026-05-12,Argentina,referral
+28,Calebe Brito,bfogaca@example.com,2025-09-05,Argentina,referral
+29,Srta. Beatriz Araújo,vsiqueira@example.org,2025-03-30,Brasil,organic
+30,Vitor Gabriel Machado,laviniacirino@example.com,2025-09-02,EUA,social
+31,Pedro Miguel Novaes,aragaovalentina@example.org,2026-09-07,Argentina,organic
+32,Enzo Jesus,nmendes@example.com,2026-07-20,EUA,referral
+33,Mateus Abreu,yda-luz@example.com,2025-04-26,Brasil,social
+34,Dra. Raquel Cassiano,ana-carolinacunha@example.org,2025-11-26,Portugal,paid_search
+35,Ana Liz Souza,danilo09@example.com,2025-10-02,Chile,organic
+36,Eduarda Araújo,cirinodavi-miguel@example.net,2024-11-18,Brasil,social
+37,Nathan Campos,brunopinto@example.org,2025-08-02,EUA,paid_search
+38,Stephany Dias,nicolas53@example.com,2025-07-15,Brasil,organic
+39,Letícia Marques,diogo07@example.net,2026-09-28,Chile,paid_search
+40,Brayan Nascimento,nataliada-luz@example.org,2026-08-12,Chile,paid_search
+41,Joaquim Freitas,levi78@example.net,2025-05-08,Argentina,paid_search
+42,Vitória Albuquerque,gustavo-henrique24@example.org,2026-07-11,Portugal,social
+43,Dra. Daniela da Mata,otto53@example.net,2026-01-05,EUA,email
+44,Thiago Mendonça,caua16@example.com,2024-11-01,Portugal,paid_search
+45,Sr. João Castro,tnovaes@example.com,2025-11-13,Chile,paid_search
+46,Breno Sales,mariana01@example.com,2026-07-21,Brasil,paid_search
+47,Ana Carolina Freitas,lorenacardoso@example.org,2025-05-13,EUA,organic
+48,Luiz Henrique Costela,gustavofogaca@example.net,2026-07-07,Argentina,paid_search
+49,Daniela da Costa,luiz-gustavojesus@example.org,2025-02-07,Chile,referral
+50,Dr. Josué da Mata,henriquegarcia@example.org,2026-06-18,Argentina,paid_search
+51,Guilherme Marques,ana-laura33@example.org,2026-01-24,EUA,email
+52,Luísa da Mota,vargasagatha@example.com,2026-01-11,Brasil,organic
+53,Zoe Farias,camargovicente@example.org,2025-11-27,Brasil,paid_search
+54,Arthur Miguel Caldeira,uferreira@example.com,2025-08-14,Portugal,email
+55,Bruna Gomes,thomasaparecida@example.net,2025-08-14,Brasil,email
+56,Zoe Rodrigues,emanuellalopes@example.org,2026-08-23,Brasil,organic
+57,Dr. Davi Silveira,natalia46@example.com,2025-07-20,Brasil,organic
+58,Yuri Cardoso,laurarios@example.com,2026-02-06,Portugal,email
+59,Kevin Guerra,da-rosaallana@example.org,2025-08-09,Argentina,organic
+60,Luna Martins,gomesgiovanna@example.net,2025-08-18,EUA,email
+61,Hadassa Moraes,yvieira@example.net,2025-01-31,Chile,email
+62,João Miguel Moraes,francisco34@example.org,2026-05-11,Brasil,referral
+63,Apollo Aparecida,maria-laurapimenta@example.org,2025-08-28,EUA,organic
+64,Evelyn Silva,zmonteiro@example.org,2025-01-15,Chile,paid_search
+65,Srta. Bianca Vasconcelos,lcamara@example.net,2025-10-13,Portugal,organic
+66,Josué Campos,zcarvalho@example.com,2026-01-30,Portugal,email
+67,Luiza Sá,upimenta@example.net,2025-08-07,Portugal,referral
+68,Melissa Castro,qmachado@example.org,2026-06-05,Argentina,referral
+69,Vicente Mendonça,yanmacedo@example.org,2026-03-04,EUA,paid_search
+70,João Gabriel Farias,valentina12@example.org,2025-03-17,EUA,email
+71,Srta. Hadassa Azevedo,vjesus@example.net,2025-09-05,Argentina,social
+72,Gustavo Leão,lvargas@example.net,2024-10-14,Brasil,email
+73,Maria Helena Mendes,fogacaana-cecilia@example.com,2026-06-15,Brasil,organic
+74,Zoe Souza,mariahcamara@example.com,2025-08-14,Portugal,social
+75,Mathias Fernandes,ksilveira@example.com,2026-08-02,EUA,social
+76,Yasmin Alves,kpastor@example.net,2024-10-19,EUA,referral
+77,Mariane Carvalho,dcirino@example.com,2025-07-03,Chile,organic
+78,Rafael Duarte,gabrielly46@example.com,2026-06-01,Brasil,paid_search
+79,Allana Souza,ferreirapietro@example.net,2024-11-19,Chile,paid_search
+80,Ana Cecília Sá,da-cruzmurilo@example.org,2025-12-27,EUA,paid_search
+81,Davi Lucas Melo,nunespedro-henrique@example.com,2026-02-22,Chile,email
+82,Sr. Danilo Vasconcelos,ana-liviacaldeira@example.net,2024-10-18,Brasil,organic
+83,Marcos Vinicius Gonçalves,dompastor@example.net,2026-05-29,Brasil,organic
+84,Cauã Sampaio,isaque90@example.com,2025-10-23,EUA,paid_search
+85,Maria Eduarda Azevedo,apollo67@example.org,2025-08-12,Argentina,referral
+86,Dr. Eduardo Lopes,,2025-02-05,Brasil,paid_search
+87,Júlia Pimenta,bmartins@example.net,2025-12-06,Chile,referral
+88,Sr. Caio da Mota,wda-cruz@example.com,2025-11-19,EUA,social
+89,Maria Helena Fernandes,monteiroaylla@example.org,2025-09-20,Brasil,social
+90,Dr. Luigi da Mota,antonio83@example.org,2025-03-25,Brasil,social
+91,Rebeca Novais,maria-lauraramos@example.net,2025-09-23,Argentina,referral
+92,Caleb da Rocha,jadesales@example.org,2025-05-11,Portugal,paid_search
+93,Maria Eduarda Melo,lais85@example.com,2026-02-25,Argentina,organic
+94,Leandro da Cunha,isaquesilveira@example.org,2025-05-18,Argentina,paid_search
+95,Dra. Ester Correia,maria-sophiada-mota@example.net,2025-12-04,Brasil,email
+96,Larissa Brito,ana-carolinada-conceicao@example.com,2025-02-07,Portugal,paid_search
+97,Vitor Cardoso,caleb08@example.com,2026-02-21,EUA,paid_search
+98,Samuel Caldeira,oliveiraalice@example.com,2025-09-14,Argentina,social
+99,Sr. Benjamim da Cunha,ecamargo@example.com,2025-09-23,EUA,social
+100,Ana Júlia Cassiano,ana-juliabarros@example.org,2024-12-25,Chile,social
+101,Heloisa Vasconcelos,cmachado@example.com,2026-06-19,EUA,paid_search
+102,Lorena Nunes,pimentagael-henrique@example.org,2025-12-30,Brasil,organic
+103,Bruno Castro,luiz-felipenovaes@example.org,2025-01-22,EUA,email
+104,Milena Sales,cda-rocha@example.org,2025-04-28,Argentina,referral
+105,Rafael Barbosa,viniciusviana@example.net,2025-12-04,Argentina,organic
+106,Otávio Camargo,kaiqueda-mata@example.org,2024-11-21,Portugal,social
+107,Leandro Peixoto,luna17@example.net,2025-05-09,EUA,referral
+108,Júlia Montenegro,fmacedo@example.net,2024-10-29,EUA,referral
+109,Luna Pereira,benjamim13@example.net,2026-06-02,Argentina,social
+110,Alícia Teixeira,bruno27@example.net,2026-01-18,Argentina,paid_search
+111,Fernando Pacheco,fporto@example.org,2025-09-08,Chile,organic
+112,Lívia Duarte,castrobella@example.com,2026-02-18,Chile,referral
+113,Murilo Teixeira,marquesfelipe@example.com,2025-04-02,Argentina,paid_search
+114,Nathan Moraes,ribeirovitoria@example.com,2025-07-28,Portugal,organic
+115,Valentim Fonseca,cpires@example.org,2025-02-25,Chile,social
+116,Caroline da Paz,fsampaio@example.org,2024-10-21,Portugal,social
+117,Isabella Santos,ana-livianovaes@example.org,2025-11-07,Brasil,organic
+118,Henry Gabriel Camargo,pcampos@example.org,2025-09-28,Brasil,email
+119,Sra. Sophia Santos,kamilly77@example.org,2025-08-29,Portugal,email
+120,Matheus Correia,davi-miguelda-mota@example.com,2025-06-05,Brasil,organic
+121,Juliana Abreu,ana-cecilia99@example.net,2025-09-22,Chile,email
+122,Pietro Nascimento,vferreira@example.net,2026-04-09,Brasil,email
+123,Mirella Duarte,rhavioliveira@example.com,2025-03-19,Chile,referral
+124,Ana Clara Dias,zsantos@example.com,2025-07-08,Argentina,referral
+125,Clarice Monteiro,cardosomilena@example.net,2025-05-30,Argentina,referral
+126,Pedro Lucas Brito,ualbuquerque@example.org,2025-07-26,Argentina,email
+127,Daniela Barbosa,qviana@example.com,2025-12-28,EUA,referral
+128,Anna Liz Farias,odias@example.net,2026-07-09,Argentina,organic
+129,Ágatha Andrade,da-costaalicia@example.org,2026-03-29,EUA,social
+130,Beatriz Teixeira,macedolucas-gabriel@example.net,2025-05-06,Portugal,paid_search
+131,Augusto Duarte,da-rochaelisa@example.com,2025-08-10,Portugal,organic
+132,Vinícius Jesus,luigicavalcanti@example.org,2025-12-18,Argentina,email
+133,Isabella Monteiro,ravimartins@example.net,2025-04-03,Argentina,referral
+134,Anthony Martins,mariahcamara@example.com,2026-07-19,Argentina,organic
+135,Ísis Castro,macedocatarina@example.net,2025-05-06,Argentina,email
+136,Isis Marques,miguel67@example.org,2025-03-22,Chile,paid_search
+137,Maria Alice Oliveira,ana-carolina06@example.com,2024-10-05,Argentina,organic
+138,Ana Julia Pereira,xda-paz@example.org,2025-12-17,Argentina,paid_search
+139,Sr. Gabriel Pinto,joao-guilherme10@example.com,2026-04-28,Chile,referral
+140,Luiz Otávio Siqueira,,2025-01-03,Argentina,referral
+141,Luan Souza,mcavalcanti@example.org,2026-04-27,Argentina,paid_search
+142,Dr. Enzo da Cunha,vda-rocha@example.com,2026-05-10,EUA,email
+143,Ana Vitória Casa Grande,isabellanovais@example.com,2024-12-04,EUA,email
+144,Alice da Luz,marquesemilly@example.net,2026-03-30,Argentina,social
+145,Mateus Porto,henrique37@example.org,2025-12-26,Chile,organic
+146,Lunna Pimenta,davi-lucasporto@example.com,2026-07-25,Brasil,organic
+147,Nicolas Camargo,calebandrade@example.com,2026-09-27,Portugal,organic
+148,Calebe da Costa,hellenamarques@example.com,2026-02-01,Argentina,organic
+149,Dra. Ágatha Leão,kamillyrezende@example.org,2026-05-31,EUA,social
+150,Maria Luísa da Mota,salesester@example.org,2025-08-19,Brasil,paid_search
+151,Luiz Miguel Brito,yasmin50@example.com,2025-04-19,Brasil,social
+152,Rafael Borges,asafearagao@example.com,2025-03-26,Argentina,email
+153,Gustavo Azevedo,pedroda-conceicao@example.com,2026-04-18,Chile,paid_search
+154,Agatha da Mota,jose-pedronogueira@example.com,2026-05-05,Chile,organic
+155,Apollo Cardoso,fogacarenan@example.net,2025-05-24,Brasil,social
+156,João Aragão,lauramoura@example.org,2026-03-28,Brasil,referral
+157,Melissa Vasconcelos,ksilveira@example.com,2025-06-21,Argentina,organic
+158,Bianca Machado,caiosiqueira@example.net,2025-10-15,Argentina,paid_search
+159,Ana Araújo,bguerra@example.net,2024-12-17,EUA,referral
+160,Sra. Ana Sophia Barros,juan12@example.com,2025-12-29,Argentina,email
+161,Lunna Garcia,maria89@example.com,2024-12-11,EUA,social
+162,Srta. Helena Lopes,ada-conceicao@example.com,2026-05-27,Brasil,social
+163,Maria Vitória Siqueira,diasleticia@example.com,2026-01-28,Argentina,referral
+164,Sr. Renan Azevedo,barrosfrancisco@example.com,2024-12-09,Brasil,email
+165,Sra. Caroline Novais,pastorbella@example.net,2024-12-28,Portugal,social
+166,Dr. Benjamim da Paz,clarice19@example.net,2025-03-04,Chile,social
+167,Rafaela Câmara,ferreiraemilly@example.org,2026-04-09,Portugal,organic
+168,Heloisa Lima,pereiravitor@example.org,2025-02-08,Chile,paid_search
+169,Sra. Maitê Ferreira,cirinojoao-pedro@example.net,2026-01-22,Argentina,email
+170,Diego Sousa,borgessofia@example.org,2025-07-01,Portugal,email
+171,Manuela Castro,ana-livia59@example.net,2024-12-01,Chile,social
+172,Eduardo Castro,rochaenrico@example.com,2025-08-19,Argentina,referral
+173,Raquel Pereira,rleao@example.org,2026-04-04,EUA,social
+174,Luiz Felipe Lopes,da-pazmariah@example.net,2026-01-30,Portugal,social
+175,Henry Gonçalves,abreunicolas@example.com,2026-08-21,Portugal,paid_search
+176,José Miguel da Rocha,isaque07@example.net,2025-08-10,Chile,referral
+177,Mateus Nascimento,melissanovais@example.net,2026-05-11,Portugal,social
+178,Miguel Sousa,lopesarthur-miguel@example.com,2026-08-03,Brasil,referral
+179,Dr. Nathan Santos,hda-rocha@example.com,2024-10-15,Brasil,referral
+180,Sr. Raul Sales,felipe61@example.org,2025-08-14,Argentina,organic
+181,Valentina Barros,vdas-neves@example.com,2025-03-10,Argentina,email
+182,Breno Moraes,mouranina@example.org,2026-07-23,Brasil,social
+183,Dr. Diogo da Costa,casa-grandetheo@example.org,2025-02-03,Brasil,email
+184,Breno Cavalcanti,wmartins@example.net,2026-04-07,Brasil,paid_search
+185,Luna Pires,kevin71@example.com,2025-08-18,EUA,organic
+186,João Guilherme Pastor,fogacanatalia@example.org,2025-05-14,Argentina,referral
+187,Ana Carolina Araújo,allana11@example.net,2025-12-07,Chile,email
+188,Nicole Pacheco,machadomarcos-vinicius@example.com,2025-12-15,Chile,email
+189,Clarice Araújo,zcaldeira@example.com,2026-09-17,Chile,organic
+190,Thiago Ramos,brunoda-cruz@example.net,2025-08-15,Portugal,social
+191,Valentina Moreira,emanuellafreitas@example.com,2025-07-09,Portugal,referral
+192,Sr. Lucas Gabriel Azevedo,qviana@example.com,2025-05-28,Chile,email
+193,Maria Isis da Paz,kaique51@example.net,2026-01-27,EUA,email
+194,Dr. Matteo Cardoso,das-nevesfernanda@example.net,2026-04-30,EUA,referral
+195,Vinicius Borges,xmoraes@example.org,2025-06-21,Argentina,organic
+196,Heitor Fernandes,ocorreia@example.org,2025-01-21,EUA,paid_search
+197,Carlos Eduardo Montenegro,ribeirobarbara@example.net,2025-01-03,EUA,referral
+198,Daniela Castro,lucassilveira@example.com,2024-10-31,EUA,email
+199,Sr. Pedro Miguel Pimenta,manuela38@example.org,2025-05-13,Argentina,social
+200,Evelyn Freitas,xmartins@example.com,2026-04-21,Brasil,referral
+201,Vitória Leão,murilopereira@example.org,2026-06-29,EUA,referral
+202,Rodrigo Freitas,silvapietra@example.org,2025-04-26,Chile,referral
+203,João Gabriel Machado,luizaborges@example.org,2026-05-19,EUA,referral
+204,Sr. Oliver Aragão,xmontenegro@example.org,2025-07-08,Argentina,referral
+205,Marcelo Câmara,diasgael-henrique@example.net,2026-01-17,Portugal,referral
+206,Davi Miguel Andrade,maria-julia27@example.com,2025-12-23,Brasil,email
+207,Antony da Cunha,kaiquenovaes@example.net,2025-12-18,Brasil,paid_search
+208,Brenda Vasconcelos,renan41@example.org,2025-03-23,EUA,email
+209,Natália Azevedo,monteirostella@example.org,2026-01-04,Argentina,organic
+210,Isabella Silva,analima@example.org,2025-12-22,Argentina,referral
+211,Oliver Cirino,rhavioliveira@example.com,2026-01-27,Argentina,email
+212,Vinicius Fonseca,mourayasmin@example.net,2026-04-27,Chile,email
+213,Alícia Gomes,oaparecida@example.com,2026-09-16,Portugal,social
+214,Antony Fogaça,ferreirarodrigo@example.net,2026-01-22,Argentina,email
+215,Lucas Gabriel Carvalho,fogacazoe@example.com,2026-05-16,Chile,paid_search
+216,Ravi Sampaio,lpires@example.org,2024-11-15,Brasil,referral
+217,Ana Carolina da Rocha,caiovieira@example.org,2026-07-08,Brasil,email
+218,Dr. Théo Gonçalves,cda-cunha@example.net,2025-02-16,Portugal,email
+219,Sr. Lucas da Mata,freitasluiza@example.com,2026-03-26,EUA,email
+220,Maitê Cirino,fsales@example.com,2026-08-05,Portugal,email
+221,Juliana Barros,bbarros@example.net,2026-09-26,Chile,referral
+222,Yago da Rocha,gustavo15@example.net,2025-05-03,Brasil,social
+223,Mariane Cavalcante,cferreira@example.org,2026-03-14,EUA,referral
+224,Dr. João Guilherme Porto,yvieira@example.net,2026-09-15,EUA,referral
+225,Breno Rios,gfonseca@example.net,2026-02-07,Portugal,email
+226,Diego Pereira,iandrade@example.org,2025-03-21,Chile,referral
+227,Maria Clara Fonseca,cnunes@example.net,2025-01-20,Portugal,paid_search
+228,Maria Eduarda Freitas,eteixeira@example.net,2025-01-08,Argentina,organic
+229,Dr. Levi Rezende,theo10@example.net,2025-02-12,Argentina,email
+230,Maria Julia Novais,da-luzvicente@example.net,2025-08-21,Portugal,email
+231,Laura Sales,hcosta@example.org,2026-06-14,Chile,social
+232,Emanuella Silva,zborges@example.net,2026-09-06,Argentina,organic
+233,Dr. Benício Novaes,ana-clara22@example.com,2025-10-06,Portugal,email
+234,Guilherme Vieira,renanvieira@example.com,2024-10-19,Brasil,email
+235,Maria Eduarda Martins,erickazevedo@example.com,2025-07-17,Chile,email
+236,Dra. Pietra Moura,avargas@example.net,2024-11-22,Chile,email
+237,Sr. Rael Martins,jose-miguel89@example.org,2026-04-13,Argentina,referral
+238,Pedro Montenegro,camposrafaela@example.org,2025-05-10,EUA,paid_search
+239,Lorenzo Santos,ceciliamoreira@example.com,2026-06-09,Brasil,organic
+240,Gael Henrique Porto,jose49@example.net,2024-12-07,Brasil,organic
+241,Eloá Pastor,luigiribeiro@example.net,2026-03-10,EUA,social
+242,Maitê Nunes,alvesenrico@example.org,2026-08-23,Argentina,referral
+243,Julia Rezende,larapinto@example.net,2024-10-22,Portugal,organic
+244,Ísis da Rocha,maria-sophia36@example.com,2025-08-27,Portugal,email
+245,Srta. Eduarda Macedo,dmendes@example.org,2025-06-05,Argentina,social
+246,Levi Silva,catarina62@example.com,2025-10-10,Argentina,social
+247,Liam da Costa,rcampos@example.com,2025-03-29,Argentina,social
+248,Benicio da Rocha,apimenta@example.org,2026-09-02,Argentina,social
+249,Luan Oliveira,mateus27@example.net,2025-09-05,Argentina,email
+250,Theo Almeida,goncalvesmirella@example.com,2026-09-05,EUA,referral
+251,Luiz Gustavo Aragão,da-pazmaya@example.net,2026-07-06,Brasil,email
+252,Olivia da Paz,caldeiralorena@example.org,2026-07-06,Brasil,referral
+253,Sra. Maria Luiza Fonseca,guerracaua@example.net,2025-11-14,EUA,paid_search
+254,Dr. Brayan Gomes,jteixeira@example.com,2026-05-25,Portugal,referral
+255,Bárbara Cardoso,goncalvesevelyn@example.com,2025-11-11,Portugal,organic
+256,Sr. Gael Henrique Pereira,cmontenegro@example.org,2024-10-28,EUA,email
+257,Sra. Olívia Moreira,mcassiano@example.net,2025-01-10,Portugal,organic
+258,Luiza Castro,vpimenta@example.com,2025-12-07,Argentina,paid_search
+259,Sophia Nascimento,ksantos@example.com,2025-09-11,EUA,referral
+260,Léo Farias,leaoana-liz@example.net,2026-06-28,Portugal,social
+261,Amanda Peixoto,pda-luz@example.net,2025-11-25,EUA,social
+262,Srta. Pietra Cavalcante,rcasa-grande@example.org,2024-10-23,Brasil,paid_search
+263,Srta. Esther Almeida,adias@example.org,2025-07-28,Argentina,referral
+264,Noah Montenegro,usousa@example.org,2026-02-27,Brasil,social
+265,Giovanna Novais,maria-liz86@example.com,2026-08-29,EUA,referral
+266,Yasmin Fernandes,vinicius97@example.org,2026-08-29,EUA,organic
+267,Kaique Câmara,alicia37@example.com,2025-09-15,Chile,referral
+268,Kamilly da Paz,oliveirayasmin@example.com,2026-07-15,Brasil,email
+269,Manuella Vargas,amandaaparecida@example.com,2026-08-28,Argentina,organic
+270,Luiz Felipe Macedo,maria-luiza33@example.net,2025-04-15,EUA,email
+271,Júlia Carvalho,pimentarhavi@example.org,2024-11-06,Chile,paid_search
+272,Heloisa Porto,cauabrito@example.com,2025-05-29,Chile,email
+273,Beatriz Rodrigues,anthonynovaes@example.org,2025-07-24,Argentina,organic
+274,Pietra Rezende,aliciaduarte@example.com,2026-01-14,EUA,organic
+275,Igor Nascimento,cavalcantilara@example.org,2026-08-12,Argentina,paid_search
+276,Miguel Viana,vcirino@example.com,2026-07-02,EUA,referral
+277,Kaique Nunes,fariasalice@example.com,2026-09-22,Brasil,email
+278,Valentina Monteiro,mirellamartins@example.com,2025-02-17,Argentina,organic
+279,Lucas Castro,qramos@example.net,2025-02-12,Chile,organic
+280,Sra. Laís Nunes,luiz-fernandopimenta@example.net,2026-07-16,Portugal,referral
+281,Sophie Duarte,guerragabriel@example.org,2026-09-16,Chile,paid_search
+282,Luna da Cruz,da-luzhadassa@example.org,2025-08-22,Portugal,social
+283,Lucas da Rosa,da-luzeloah@example.net,2025-03-21,Chile,organic
+284,Bárbara Martins,liam68@example.net,2026-04-14,Portugal,referral
+285,Srta. Laís Freitas,pedro-lucascarvalho@example.com,2025-01-19,Brasil,paid_search
+286,Dra. Maria Fernanda Leão,,2026-02-24,Portugal,referral
+287,Zoe Rios,thalesrodrigues@example.net,2026-06-29,Brasil,paid_search
+288,Vinicius Machado,eduardo91@example.org,2026-05-28,Brasil,email
+289,Gabriela Oliveira,lucasduarte@example.net,2025-08-18,Chile,organic
+290,Gabrielly Silva,gborges@example.com,2026-05-13,Chile,organic
+291,Caroline Moraes,kmarques@example.org,2025-11-11,Chile,social
+292,Lorena Silveira,goncalvesthomas@example.org,2026-03-28,Brasil,email
+293,Ana Sophia Aparecida,sferreira@example.org,2025-10-30,Brasil,email
+294,Bernardo Melo,da-pazjulia@example.org,2026-04-14,Brasil,social
+295,Mariah Freitas,ymachado@example.com,2024-11-27,EUA,referral
+296,Ágatha Carvalho,isaac28@example.com,2025-10-21,EUA,email
+297,Srta. Agatha Sá,da-rosamaria-fernanda@example.net,2026-03-08,Argentina,referral
+298,Yasmin Garcia,thalesmarques@example.com,2025-01-21,Brasil,referral
+299,Daniel Andrade,xpimenta@example.org,2025-03-24,Argentina,paid_search
+300,Carlos Eduardo Peixoto,machadocalebe@example.org,2026-03-24,Argentina,email
