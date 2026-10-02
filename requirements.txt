@@ -1,0 +1,16 @@
+# extract/requirements.txt
+google-cloud-bigquery==3.27.0
+google-cloud-bigquery-storage==2.27.0
+google-cloud-storage
+pandas==2.2.3
+
+# dbt/requirements.txt
+dbt-core==1.9.0
+dbt-bigquery==1.9.0
+
+# dataflow/requirements.txt — só se o time realmente tiver pipeline streaming
+apache-beam[gcp]==2.76.0
+
+# airflow
+apache-airflow-providers-google
+apache-airflow-
