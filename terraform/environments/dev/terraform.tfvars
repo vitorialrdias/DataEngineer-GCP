@@ -1,1 +1,0 @@
-project_id = "dataengineer-gcp-510313"

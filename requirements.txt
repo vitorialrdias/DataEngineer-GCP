@@ -13,4 +13,4 @@ apache-beam[gcp]==2.76.0
 
 # airflow
 apache-airflow-providers-google
-apache-airflow-
+apache-airflow==2.11.1

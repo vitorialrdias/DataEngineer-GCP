@@ -8,12 +8,15 @@ resource "google_composer_environment" "this" {
       image_version = "composer-3-airflow-2.11.1-build.19"
 
       pypi_packages = {
-        "dbt-core"     = "==1.9.0"
-        "dbt-bigquery" = "==1.9.0"
+        "dbt-core"     = ""
+        "dbt-bigquery" = ""
       }
     }
     node_config {
       service_account = var.service_account_email
     }
+  }
+  lifecycle {
+    ignore_changes = [config[0].software_config[0].pypi_packages]
   }
 }

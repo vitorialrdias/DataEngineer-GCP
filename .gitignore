@@ -2,6 +2,8 @@
 .terraform/
 *.tfstate
 *.tfstate.*
+*.tfvars
+tfplan
 crash.log
 crash.*.log
 
@@ -24,3 +26,6 @@ venv/
 
 # Logs
 logs/
+
+
+.github/
