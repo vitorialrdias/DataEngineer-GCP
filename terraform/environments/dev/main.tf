@@ -28,7 +28,7 @@ resource "google_project_service" "composer_api" {
 
 
 resource "google_service_account" "composer_sa" {
-  account_id   = "techcommerce-dev"
+  account_id   = "composer-techcommerce"
   display_name = "Service account do Cloud Composer - TechCommerce"
 }
 
