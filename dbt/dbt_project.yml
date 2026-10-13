@@ -19,3 +19,7 @@ models:
   techcommerce:
     datawarehouse:
       +materialized: table
+      +schema: datawarehouse
+    marts:
+      +materialized: view
+      +schema: marts

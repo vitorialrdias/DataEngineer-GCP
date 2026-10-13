@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: datawarehouse
+    schema: datawarehouse
+    tables:
+      - name: ft_orders
+      - name: ft_order_items
+      - name: dm_customers
+      - name: dm_products
+      - name: ft_click_events
