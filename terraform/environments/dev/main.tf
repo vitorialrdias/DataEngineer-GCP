@@ -12,6 +12,13 @@ module "datawarehouse_dataset" {
     project_id = var.project_id
 }
 
+module "marts_dataset" {
+    source = "../../modules/bigquery-dataset"
+    dataset_id = "marts"
+    location = "US"
+    project_id = var.project_id
+}
+
 module "raw_bucket" {
     source      = "../../modules/storage-bucket"
     project_id  = var.project_id
