@@ -5,15 +5,15 @@ from google.cloud import storage
 logger = logging.getLogger(__name__)
 
 CSV = [
-        (Path(r"C:\Users\vitoria.lribeiro\OneDrive - gpssa.com.br\POWERBI-VITORIA\Learning\DataEngineer-GCP\csv\orders.csv"),
+        (Path(r"DataEngineer-GCP\csv\orders.csv"),
         "orders.csv"),
-        (Path(r"C:\Users\vitoria.lribeiro\OneDrive - gpssa.com.br\POWERBI-VITORIA\Learning\DataEngineer-GCP\csv\order_items.csv"),
+        (Path(r"DataEngineer-GCP\csv\order_items.csv"),
         "order_items.csv"),
-        (Path(r"C:\Users\vitoria.lribeiro\OneDrive - gpssa.com.br\POWERBI-VITORIA\Learning\DataEngineer-GCP\csv\products.csv"),
+        (Path(r"DataEngineer-GCP\csv\products.csv"),
         "products.csv"),       
-        (Path(r"C:\Users\vitoria.lribeiro\OneDrive - gpssa.com.br\POWERBI-VITORIA\Learning\DataEngineer-GCP\csv\customers.csv"),
+        (Path(r"DataEngineer-GCP\csv\customers.csv"),
         "customers.csv"),       
-        (Path(r"C:\Users\vitoria.lribeiro\OneDrive - gpssa.com.br\POWERBI-VITORIA\Learning\DataEngineer-GCP\csv\click_events.csv"),
+        (Path(r"DataEngineer-GCP\csv\click_events.csv"),
         "click_events.csv"),       
        ]
 
